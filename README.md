@@ -35,6 +35,6 @@ The website must, at the top of every page, have a navigation menu that:
 - [x] Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 - [x] Is responsive (using media queries). The nav must have similar behavior as the screenshots ["Navigation Menu" section](#navigation-menu) (notice the background color change).
 
-- [ ] Finally, the website must be deployed to GitHub pages.
+- [x] Finally, the website must be deployed to GitHub pages.
 
 ### Screenshots
