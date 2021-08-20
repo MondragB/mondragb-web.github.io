@@ -37,4 +37,6 @@ The website must, at the top of every page, have a navigation menu that:
 
 - [x] Finally, the website must be deployed to GitHub pages.
 
-### Screenshots
+## References
+
+OpenWeatherMap.org. (2012). Сurrent weather and forecast. Retrieved from [https://openweathermap.org/](https://openweathermap.org/)
